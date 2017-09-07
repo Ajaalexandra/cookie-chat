@@ -9,12 +9,41 @@ body {
   font-family: sans-serif;
 }
 
+.DevMountain {
+  color: #A9A9A9;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.Aja {
+  color: #A9A9A9;
+  text-align: center;
+  margin: 0;
+  
+}
+
+.Author {
+  color: #A9A9A9;
+  text-align: center;
+  font-weight: normal;
+  margin: 0;
+  padding: 3px;
+  padding-bottom: 2%;
+}
+
+.messages-container {
+padding-left: 10%;
+padding-right: 10%;
+padding-top: 5%;
+}
+
 .main-container {
-  width: 75%;
-  margin: 10px auto;
+  width: 100vw;
+  margin: 0;
   background: rgba(255, 255, 255, 0.86);
   padding: 5px;
   border-radius: 10px;
+  border: 2px solid black
 }
 
 .main-container h1 {
@@ -30,4 +59,21 @@ p{
   text-align: center;
   margin: 3px 0;
   font-size: 17px;
+  border: 2px solid black;
+  padding: 1%;
+  
 }
+.time-stamp {
+  float: right;
+  background-color: #57A1DA;
+  color: white;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 16px;
+
+}
+
+
+
+
